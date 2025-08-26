@@ -13,7 +13,7 @@ My Skills
 •	Other Tools: Git, Docker, Firebase, Figma
 
 Project Link
-Github:
+Github:https://github.com/ghisia/fasta
 
 Connect with Me
 •	Email: munezeroghislaine50@gmail.com
